@@ -1,6 +1,8 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/VNDong/SkyWars-v2
 branches:SkyWars_Svile_FixedbyItzElitePlayz.phar
 - master
-projects: [SkyWars_Svile_FixedbyVNDong]
+projects:
+     SkyWars v2:
+        path:SkyWars v2/
 ...
 
